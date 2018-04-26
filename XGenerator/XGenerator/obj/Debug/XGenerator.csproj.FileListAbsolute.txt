@@ -1,0 +1,14 @@
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\bin\Debug\XGenerator.exe.config
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\bin\Debug\XGenerator.exe
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\bin\Debug\XGenerator.pdb
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\obj\Debug\XGenerator.csprojResolveAssemblyReference.cache
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\obj\Debug\XGenerator.csproj.CoreCompileInputs.cache
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\obj\Debug\XGenerator.exe
+c:\users\gmarosvolgyi\source\repos\XGenerator\XGenerator\obj\Debug\XGenerator.pdb
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\bin\Debug\XGenerator.exe.config
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\bin\Debug\XGenerator.exe
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\bin\Debug\XGenerator.pdb
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\obj\Debug\XGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\obj\Debug\XGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\obj\Debug\XGenerator.exe
+C:\Users\Krisztina\Desktop\XGenerator\XGenerator\obj\Debug\XGenerator.pdb

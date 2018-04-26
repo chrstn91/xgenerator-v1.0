@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGenerator", "XGenerator\XGenerator.csproj", "{F7D64780-68FB-42DC-A681-FC55C5B46474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D64780-68FB-42DC-A681-FC55C5B46474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D64780-68FB-42DC-A681-FC55C5B46474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D64780-68FB-42DC-A681-FC55C5B46474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D64780-68FB-42DC-A681-FC55C5B46474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCC7065-E135-46AF-ACA0-9CB6E9E05C31}
+	EndGlobalSection
+EndGlobal
